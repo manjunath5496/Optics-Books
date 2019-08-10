@@ -33,6 +33,11 @@
                            
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Optics-Books/blob/master/op(5).pdf" style="text-decoration:none;">Applications of Nonlinear Fiber Optics</a></b></li> 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Optics-Books/blob/master/op(21).pdf" style="text-decoration:none;">Optics And Modern Physics for the IIT-JEE</a></b></li>
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Optics-Books/blob/master/op(22).pdf" style="text-decoration:none;">Principles of Electron Optics</a></b></li>  
+                           
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Optics-Books/blob/master/op(23).pdf" style="text-decoration:none;">Modern Optical Engineering</a></b></li> 
 
 
 
